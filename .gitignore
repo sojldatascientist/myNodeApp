@@ -1,0 +1,8 @@
+venv1
+jupyter-envs
+*.pyc
+.DS_Store
+.env
+jupyter-appy.ipynb
+dash_kevin.ipynb
+app (copie).py

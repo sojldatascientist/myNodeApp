@@ -1,0 +1,12 @@
+"scripts": {
+   "start": "node index.js"
+}
+
+{
+ "name": "app",
+ "description": "l'application de Kevin",
+ "version": "1.0.0",
+ "engines": {
+   "node": "12.11.1"
+   }
+}
