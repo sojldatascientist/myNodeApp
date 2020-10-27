@@ -19,7 +19,7 @@ chardet==3.0.4
 cheroot==8.3.0
 CherryPy==18.5.0
 click==7.1.1
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 dash==1.9.1
 dash-bootstrap-components==0.10.0
