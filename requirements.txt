@@ -103,7 +103,7 @@ py-readability-metrics==1.4.4
 pycparser==2.20
 pycryptodome==3.9.7
 pydeck==0.3.0b2
-Pygments==2.6.1
+Pygments==2.7.4
 pykerberos==1.2.1
 pyorbital==1.5.0
 pyparsing==2.4.6
