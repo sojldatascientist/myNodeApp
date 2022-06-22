@@ -81,7 +81,7 @@ nbserverproxy==0.8.8
 nltk==3.5
 notebook==6.0.3
 ntlm-auth==1.4.0
-numpy==1.18.2
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 pandas-datareader==0.8.1
